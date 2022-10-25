@@ -1,0 +1,41 @@
+body{
+    background-image: url(../img/lluvia.png);
+}
+#titulo{
+    text-align: center;
+}
+#hero-image{
+    background-image: url(../img/lalluvia.jpg);
+    padding-left: 450px;
+    padding-top: 100px;
+    padding-right: 200px;
+    padding-bottom: 50px;
+    width: 200px;
+    border-radius: 40px;
+    font-weight: bold;
+    margin-top: 30px;
+    box-shadow: 15px 15px 15px;
+
+        
+}
+
+    
+
+#estilo1{
+    padding-left: 400px;
+
+}
+#hero-text{
+    
+    font-size: large;
+    width: 200px;
+    color: white;
+    background-color: black;
+    
+    
+    
+
+
+
+    
+}
